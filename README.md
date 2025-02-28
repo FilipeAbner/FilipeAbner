@@ -1,6 +1,6 @@
 
 # 👋 Hi Space Visitor I'm Filipe! <span>&#x1f1e7;&#x1f1f7;</span>
-I am a Computer Science student at the Federal Institute of Northern Minas Gerais (IFNMG) 7th Grade, i hope you find what are you looking for, if it is aliens unfortunately I can't help but here you cand find and amazing profissional currently focused on ​​Data Science area :wink: (and some other features).
+I am a Computer Science student at the Federal Institute of Northern Minas Gerais (IFNMG) 9th Grade, i hope you find what are you looking for, if it is aliens unfortunately I can't help but here you cand find and amazing profissional currently focused on ​​Data Science area :wink: (and some other features).
 
 ##
 ### 📊 GitHub Stats:
