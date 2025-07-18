@@ -7,7 +7,7 @@ I am a Computer Science student at the Federal Institute of Northern Minas Gerai
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FilipeAbner&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/FilipeAbner)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FilipeAbner&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeAbner&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ##
 ### 👨‍💻 Main Technologies and Tools 🛠
